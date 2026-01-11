@@ -10,3 +10,9 @@
 [submodule "practice-repos/rmarkdown-and-dashboards"]
 	path = practice-repos/rmarkdown-and-dashboards
 	url = https://github.com/rstudio/rmarkdown-and-dashboards.git
+[submodule "practice-repos/pharma-hands-on-exercises"]
+	path = practice-repos/pharma-hands-on-exercises
+	url = https://github.com/pfizer-opensource/pharma-hands-on-exercises.git
+[submodule "practice-repos/reports-with-quarto-exercises"]
+	path = practice-repos/reports-with-quarto-exercises
+	url = https://github.com/ivelasq/reports-with-quarto-exercises.git
