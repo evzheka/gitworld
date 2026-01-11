@@ -1,0 +1,92 @@
+############################
+# macOS
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+############################
+# R / RStudio
+############################
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+
+# RStudio project user state
+.Rproj.user/
+
+############################
+# R packages / builds
+############################
+*.tar.gz
+*.tgz
+*.zip
+*.Rcheck/
+
+############################
+# R Markdown / Quarto output
+############################
+*_cache/
+*_files/
+.cache/
+
+# Rendered outputs (keep source, not output)
+*.html
+*.pdf
+*.docx
+
+############################
+# Quarto
+############################
+.quarto/
+.quarto_cache/
+
+############################
+# renv
+############################
+renv/library/
+renv/python/
+renv/staging/
+renv/local/
+renv/.cache/
+renv.lock.bak
+
+############################
+# Logs / temp files
+############################
+*.log
+*.tmp
+*.swp
+*.bak
+~$*
+
+############################
+# Editor / IDE
+############################
+.vscode/
+.idea/
+
+############################
+# Data (protect yourself)
+############################
+data/raw/
+data/intermediate/
+*.csv
+*.tsv
+*.xlsx
+
+############################
+# Secrets (NEVER commit)
+############################
+.Renviron
+.env
+.env.*
+
+############################
+# OS / misc
+############################
+Thumbs.db
