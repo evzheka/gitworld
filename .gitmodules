@@ -1,0 +1,12 @@
+[submodule "practice-repos/rmarkdown-cookbook"]
+	path = practice-repos/rmarkdown-cookbook
+	url = https://github.com/rstudio/rmarkdown-cookbook.git
+[submodule "practice-repos/r4ds"]
+	path = practice-repos/r4ds
+	url = https://github.com/hadley/r4ds.git
+[submodule "practice-repos/pharmaverse-examples"]
+	path = practice-repos/pharmaverse-examples
+	url = https://github.com/pharmaverse/examples.git
+[submodule "practice-repos/rmarkdown-and-dashboards"]
+	path = practice-repos/rmarkdown-and-dashboards
+	url = https://github.com/rstudio/rmarkdown-and-dashboards.git
